@@ -1,5 +1,4 @@
-# DE2_Assign3_AMerceron
-Assignment 3 - AWS
+# SPORTS IN POLITICS OR POLITICS IN SPORTS?
 
 ## View point
 
