@@ -93,4 +93,9 @@ international tournaments	0.99+
 a neutral status	0.99+
 TASS reports	0.80
 
+SENTIMENT COMPARISON
+
+![image](https://github.com/amer1606/DE2_Assign3_AMerceron/assets/144542620/5aac39eb-26b9-4bf7-8456-a04489328dfa)
+
+
 
