@@ -21,3 +21,6 @@ Whilst the French and the Spanish media refer specifically to the war, the Itali
 Sentiment
 More revealing is the sentiment analysis, from AWS Comprehend, which illustrates the neutrality in all three western media, as opposed to the negative sentiment expressed in the Russian Pravda (English edition). 
 
+![image](https://github.com/amer1606/DE2_Assign3_AMerceron/assets/144542620/1d90e00e-0b29-45a1-86dc-446574ac96f6)
+
+
