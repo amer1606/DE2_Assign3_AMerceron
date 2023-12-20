@@ -35,3 +35,62 @@ The python code scraped all media content but the Russian one (*), took 3 conten
 Out of interest we also checked a Ukranian media which showed no bias on sentiment but compared the 11 Russian athletes currently satisfying the IOC rules, Vs 60 Ukranian athletes already qualified.
 (*): The Pravda article resulted encrypted and not exploitable form python code, so we copied it manually to insert it into the code
 
+APPENDICES
+
+L'EQUIPE - French
+
+Key phrases	Confidence
+Less than two hours	0.95
+the IOC	0.99+
+Russian and Belarusian athletes	0.99+
+the Paris Olympic Games	0.99+
+a neutral banner	0.99+
+reactions	0.99+
+the Russian media	0.99+
+its analysis	0.99+
+the daily Sport-Express	0.99+
+the card	0.99+
+
+RAI NEWS - Italian
+
+Entity	Type	Confidence
+Russia	Location	0.99+
+Belarus	Location	0.99+
+2024 Paris Olympic Games	Event	0.94
+president	Person	0.59
+World Athletics	Organization	0.98
+Sebastian Coe	Person	0.99+
+Coe	Person	0.99+
+five minutes	Quantity	0.75
+GettyImages	Organization	0.97
+Sebastian Coe	Person	0.99+
+
+ESTADIO DEPORTIVO
+
+Key phrases	Confidence
+The participation	0.99+
+Russian athletes	0.99+
+the Paris 2024 Olympic Games	0.99+
+real headaches	0.99+
+the invasion	0.99+
+Ukraine	0.99+
+subsequent war	0.99+
+the situation	0.99+
+these athletes	0.99+
+a possibility	0.99+
+
+PRAVDA
+
+Key phrases	Confidence
+Russian athletes	0.99+
+part	0.99+
+2024 Olympic Games 18.12.2023 16:15 Sport	0.94
+The head	0.97
+the All-Russian Rhythmic Gymnastics Federation	0.99+
+Irina Viner	0.99+
+her athletes	0.99+
+international tournaments	0.99+
+a neutral status	0.99+
+TASS reports	0.80
+
+
