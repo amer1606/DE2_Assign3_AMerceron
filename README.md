@@ -23,4 +23,15 @@ More revealing is the sentiment analysis, from AWS Comprehend, which illustrates
 
 ![image](https://github.com/amer1606/DE2_Assign3_AMerceron/assets/144542620/1d90e00e-0b29-45a1-86dc-446574ac96f6)
 
+## The Process
+
+We looked for a topic that could create divergent approaches between media. Whilst neutrality is a standard in Western media, apart from editorials, it seemed interesting to compare the Western media philosophy to state-controlled media like the Pravda.
+Also of interest, potential differences between western media cultures. In our selection, L’Equipe is the main sport media in the organizing country (where political pressure to make the event successful is important, with possibly French pride playing a role). Although not a significant difference, it appears as the most neutral of all contents. Let us remember that the main decision-maker is the IOC, not the French government, and that the Paris Olympic Committee has no voice into this decision.
+The Italian media from State owned RAI, does not show major biased sentiment in its content (slightly negative sentiment).
+
+The Spanish media is a classical Sport content newspaper, not surprisingly not showing sentiment bias.
+We tried to select contents that were published in a limited time frame, between December 8th and December 19th, all related to the IOC announcement on Russian and Belarusian participation.
+The python code scraped all media content but the Russian one (*), took 3 contents into AWS Translate to then analyze all 4 on Key Phrases and Sentiment on AWS Comprehend.
+Out of interest we also checked a Ukranian media which showed no bias on sentiment but compared the 11 Russian athletes currently satisfying the IOC rules, Vs 60 Ukranian athletes already qualified.
+(*): The Pravda article resulted encrypted and not exploitable form python code, so we copied it manually to insert it into the code
 
