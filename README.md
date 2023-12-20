@@ -35,11 +35,11 @@ The python code scraped all media content but the Russian one (*), took 3 conten
 Out of interest we also checked a Ukranian media which showed no bias on sentiment but compared the 11 Russian athletes currently satisfying the IOC rules, Vs 60 Ukranian athletes already qualified.
 (*): The Pravda article resulted encrypted and not exploitable form python code, so we copied it manually to insert it into the code
 
-APPENDICES
+## APPENDICES
 
-L'EQUIPE - French
+### L'EQUIPE - French
 
-Key phrases	Confidence
+Key phrases	/ Confidence
 Less than two hours	0.95
 the IOC	0.99+
 Russian and Belarusian athletes	0.99+
@@ -51,7 +51,7 @@ its analysis	0.99+
 the daily Sport-Express	0.99+
 the card	0.99+
 
-RAI NEWS - Italian
+### RAI NEWS - Italian
 
 Entity	Type	Confidence
 Russia	Location	0.99+
@@ -65,7 +65,7 @@ five minutes	Quantity	0.75
 GettyImages	Organization	0.97
 Sebastian Coe	Person	0.99+
 
-ESTADIO DEPORTIVO
+### ESTADIO DEPORTIVO
 
 Key phrases	Confidence
 The participation	0.99+
@@ -79,7 +79,7 @@ the situation	0.99+
 these athletes	0.99+
 a possibility	0.99+
 
-PRAVDA
+### PRAVDA
 
 Key phrases	Confidence
 Russian athletes	0.99+
